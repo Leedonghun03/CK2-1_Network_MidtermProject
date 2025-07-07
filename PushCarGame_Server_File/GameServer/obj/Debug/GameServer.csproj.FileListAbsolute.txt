@@ -1,0 +1,54 @@
+C:\202213204_이동훈\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\202213204_이동훈\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\202213204_이동훈\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\202213204_이동훈\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\202213204_이동훈\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\202213204_이동훈\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\202213204_이동훈\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\hanrc\OneDrive\바탕 화면\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\hanrc\OneDrive\바탕 화면\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\hanrc\OneDrive\바탕 화면\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\hanrc\OneDrive\바탕 화면\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\hanrc\OneDrive\바탕 화면\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\hanrc\OneDrive\바탕 화면\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\hanrc\OneDrive\바탕 화면\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\GameServer.exe.config
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\UnityProject\NetWork\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+D:\UnityProject\NetWork\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\UnityProject\NetWork\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\UnityProject\NetWork\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\BouncyCastle.Cryptography.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\Google.Protobuf.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\K4os.Compression.LZ4.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\K4os.Hash.xxHash.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\MySql.Data.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Buffers.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.IO.Pipelines.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Memory.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\ZstdSharp.dll
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\BouncyCastle.Cryptography.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\Google.Protobuf.pdb
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\Google.Protobuf.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\K4os.Compression.LZ4.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\K4os.Hash.xxHash.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\MySql.Data.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Buffers.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.IO.Pipelines.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Memory.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Numerics.Vectors.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UnityProject\NetWork\GameServer\GameServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UnityProject\NetWork\GameServer\GameServer\obj\Debug\GameServer.csproj.Up2Date

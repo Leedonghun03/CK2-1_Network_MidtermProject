@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\NetWork\\GameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3698D9FD-9C16-41A2-918B-A38E0814DED8}|GameServer\\GameServer.csproj|d:\\unityproject\\network\\gameserver\\gameserver\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3698D9FD-9C16-41A2-918B-A38E0814DED8}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3698D9FD-9C16-41A2-918B-A38E0814DED8}|GameServer\\GameServer.csproj|D:\\UnityProject\\NetWork\\GameServer\\gameserver\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3698D9FD-9C16-41A2-918B-A38E0814DED8}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpServer.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NetWork\\GameServer\\GameServer\\TcpServer.cs",
+              "RelativeDocumentMoniker": "GameServer\\TcpServer.cs",
+              "ToolTip": "D:\\UnityProject\\NetWork\\GameServer\\GameServer\\TcpServer.cs",
+              "RelativeToolTip": "GameServer\\TcpServer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwGYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:37:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\NetWork\\GameServer\\GameServer\\DBManager.cs",
+              "RelativeDocumentMoniker": "GameServer\\DBManager.cs",
+              "ToolTip": "D:\\UnityProject\\NetWork\\GameServer\\GameServer\\DBManager.cs",
+              "RelativeToolTip": "GameServer\\DBManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:36:40.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
